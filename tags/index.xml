@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fred&#39;s Blog</title>
+    <link>https://03fredc.github.io/blog/tags/</link>
+    <description>Recent content in Tags on Fred&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sat, 29 Oct 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://03fredc.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game</title>
+      <link>https://03fredc.github.io/blog/tags/game/</link>
+      <pubDate>Sat, 29 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://03fredc.github.io/blog/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://03fredc.github.io/blog/tags/html/</link>
+      <pubDate>Sat, 29 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://03fredc.github.io/blog/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://03fredc.github.io/blog/tags/new/</link>
+      <pubDate>Sat, 29 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://03fredc.github.io/blog/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://03fredc.github.io/blog/tags/photos/</link>
+      <pubDate>Sat, 29 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://03fredc.github.io/blog/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://03fredc.github.io/blog/tags/python/</link>
+      <pubDate>Sat, 29 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://03fredc.github.io/blog/tags/python/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

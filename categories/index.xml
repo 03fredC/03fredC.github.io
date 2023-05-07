@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Fred&#39;s Blog</title>
+    <link>https://03fredc.github.io/blog/categories/</link>
+    <description>Recent content in Categories on Fred&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sat, 29 Oct 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://03fredc.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Language</title>
+      <link>https://03fredc.github.io/blog/categories/go-language/</link>
+      <pubDate>Sat, 29 Oct 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://03fredc.github.io/blog/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
