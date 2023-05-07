@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Liva | Personal blog template</title>
+    <title>Python on Fred的碎碎念</title>
     <link>/tags/python/</link>
-    <description>Recent content in Python on Liva | Personal blog template</description>
+    <description>Recent content in Python on Fred的碎碎念</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-TW</language>
     <lastBuildDate>Sat, 29 Oct 2022 10:07:47 +0600</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
