@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Fred&#39;s Blog</title>
-    <link>https://03fredc.github.io/blog/blog/</link>
+    <link>https://03fredc.github.io/blog/</link>
     <description>Recent content in Blogs on Fred&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 29 Oct 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://03fredc.github.io/blog/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Oct 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://03fredc.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://03fredc.github.io/blog/blog/post-13/</link>
+      <link>https://03fredc.github.io/blog/post-13/</link>
       <pubDate>Sat, 29 Oct 2022 10:07:47 +0600</pubDate>
       
-      <guid>https://03fredc.github.io/blog/blog/post-13/</guid>
+      <guid>https://03fredc.github.io/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
