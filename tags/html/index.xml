@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HTML on Fred&#39;s Blog</title>
+    <title>HTML on Fred&#39;s_Blog</title>
     <link>https://03fredc.github.io/tags/html/</link>
-    <description>Recent content in HTML on Fred&#39;s Blog</description>
+    <description>Recent content in HTML on Fred&#39;s_Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Sat, 29 Oct 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://03fredc.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
