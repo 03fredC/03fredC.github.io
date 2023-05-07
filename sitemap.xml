@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>https://03fredc.github.io/blog/blog/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://03fredc.github.io/blog/categories/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://03fredc.github.io/blog/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/tags/game/</loc>
+    <loc>https://03fredc.github.io/blog/tags/game/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/categories/go-language/</loc>
+    <loc>https://03fredc.github.io/blog/categories/go-language/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/blog/post-13/</loc>
+    <loc>https://03fredc.github.io/blog/blog/post-13/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>https://03fredc.github.io/blog/tags/html/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/tags/new/</loc>
+    <loc>https://03fredc.github.io/blog/tags/new/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/tags/photos/</loc>
+    <loc>https://03fredc.github.io/blog/tags/photos/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/tags/python/</loc>
+    <loc>https://03fredc.github.io/blog/tags/python/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://03fredc.github.io/blog/tags/</loc>
     <lastmod>2022-10-29T10:07:47+06:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://03fredc.github.io/blog/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://03fredc.github.io/blog/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://03fredc.github.io/blog/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
 </urlset>
